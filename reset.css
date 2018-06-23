@@ -58,3 +58,9 @@ input:-webkit-autofill {
 	color: #fff !important;
 	-webkit-text-fill-color: #fff !important;
 }
+
+/* placeholder style */
+/* input::-webkit-input-placeholder { color: #ffd595; }
+input:-ms-input-placeholder { color: #ffd595; }
+input::-ms-input-placeholder { color: #ffd595; }
+input::placeholder { color: #ffd595; }  */
